@@ -30,7 +30,7 @@ Fullstack project utilizing Django REST Framework, React functional components, 
 * In another terminal window, navigate to the top-level project folder and run `npm run dev`
 * Finally, in the Browser, visit `http://localhost:8000`
 
->Note: If you're initially receiving '404 NOT FOUND', give it a minute, then refresh, you can also try restarting the server.
+>Note: If nothing is initially displayed on the page,  and/or you're receiving '404 NOT FOUND' in the console, give it a minute, then refresh. You can also try restarting the server.
 
 ### Once you're finished inside your virtual environment, deactivate from the top-level directory with the command, `exit`
 
